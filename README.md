@@ -1,4 +1,4 @@
-# BankingServices
+# Banking Services Case Study (Data In Motion)
 
 This repository contains the schema and the answers to the Data In Motion - Banking Services SQL Case Study
 
